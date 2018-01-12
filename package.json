@@ -1,0 +1,15 @@
+{
+  "name": "mine-xmr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start-coin-hive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coin-hive": "^1.10.0"
+  }
+}
